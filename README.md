@@ -1,5 +1,6 @@
 # AI Research Tasks
-MSc and PhD in fundamental and applied AI  
+MSc and PhD tasks in fundamental and applied AI.  
+  
 Задачи для потенциальных магистерских, возможно бакалаврских и кандидатских работ в [Институте искусственного интеллекта](https://ai.ssau.ru/) Самарского универсистета и/или в ИСОИ РАН.  
 Руковожу работами я, [Никоноров Артем Владимирович](https://ssau.ru/staff/66320001-nikonorov-artem-vladimirovich) и мои коллеги.  
 
