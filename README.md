@@ -1,2 +1,3 @@
-# AI_Research_Tasks
-MSc and PhD in fundamental and applied AI
+# AI Research Tasks
+MSc and PhD in fundamental and applied AI  
+Задачи для потенциальных магистерских, возможно бакалаврских и кандидатских работ в [Институте Искусственного Интеллекта](https://ai.ssau.ru/) Самарского универсистета и/или в ИСОИ РАН.  
