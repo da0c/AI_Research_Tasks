@@ -15,7 +15,7 @@ MSc and Ph.D. tasks in fundamental and applied AI and CV.
 Предлагаемые задачи - развитие алгоритмов крупношагового метаобучения, применение подхода для новых прикладных областей. 
 В частности, интересно исследование пространства оценок метаобучения при помощи [TDA](https://en.wikipedia.org/wiki/Topological_data_analysis),
 а также применение метаобучения в анализе гиперспектральных данных.  
-
+Возможные руководители [Давыдов Никита Сергеевич](/ssau.ru/staff/444928871-davydov-nikita-sergeevich), [Евдокимова Виктория Витальевна](https://ssau.ru/staff/304968209-evdokimova-viktoriya-vitalevna).  
   
 Базовая работа по MAML:  
 [Finn, et al., Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks, NeurIPS, 2017](https://proceedings.mlr.press/v70/finn17a/finn17a.pdf)  
